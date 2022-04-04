@@ -1,5 +1,7 @@
 ### Olá!! 🙋‍♂️
 
+<img align="right"  width="150"  src="https://i.pinimg.com/originals/c5/6c/49/c56c49115e1318730b5966b41de7c8b7.gif"/>
+
  <p> 
 
 - 💻 Futuro Dev. 
@@ -25,7 +27,7 @@
   <a href="https://github.com/WilliamVSan">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=codeSTACKr"/>
-   <img align="right"  width="150"  src="https://i.pinimg.com/originals/c5/6c/49/c56c49115e1318730b5966b41de7c8b7.gif"/>
+   
 </div>
   
 <div> 
