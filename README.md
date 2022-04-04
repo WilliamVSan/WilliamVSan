@@ -26,8 +26,8 @@
 
 <div align="left">
   <a href="https://github.com/WilliamVSan">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=codeSTACKr"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=codeSTACKr"/>
    
 </div>
   
