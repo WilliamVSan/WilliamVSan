@@ -15,6 +15,7 @@
 <div align="center">
    <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
+   <img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/html-5.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/css-3.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
