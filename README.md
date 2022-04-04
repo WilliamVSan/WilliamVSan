@@ -16,11 +16,11 @@
    <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/css-3.svg"/>
+   <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
+   <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
-   <img width="50" src="https://cdn.svgporn.com/logos/react.svg"/>
+   <img width="45" src="https://cdn.svgporn.com/logos/react.svg"/>
    <img width="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/>
 </div>
 
