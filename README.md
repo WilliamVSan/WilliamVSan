@@ -8,7 +8,7 @@
 
 - 😄 Pronome: ele/dele
 
-- 👨‍💻 Atualmente faço parte do Bootcamp da Generation Brasil: Java Jr Full-stack.
+- 👨‍💻 No momento focando em Python.
  
  </p>
  
