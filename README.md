@@ -8,7 +8,7 @@
 
 - 😄 Pronome: ele/dele
 
-- 👨‍💻 No momento focando em Python.
+- 👨‍💻 Atualmente focando em .Net e Python.
  
  </p>
  
