@@ -4,7 +4,7 @@
 
  <p> 
 
-- 💻 Futuro Dev. 
+- 💻 Estudante de programação e futuro Dev. 
 
 - 😄 Pronome: ele/dele
 
