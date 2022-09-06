@@ -8,7 +8,7 @@
 
 - 😄 Pronome: ele/dele
 
-- 👨‍💻 Atualmente focando em .Net e Python(Participando do programa Stone Tech <Pcd/>.
+- 👨‍💻 Atualmente focando em .Net e Python(Participando do programa Stone Tech <Pcd/>).
  
  </p>
  
