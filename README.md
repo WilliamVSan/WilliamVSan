@@ -1,41 +1,33 @@
-### Olá!! 🙋‍♂️
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img align="right"  width="150"  src="https://i.pinimg.com/originals/c5/6c/49/c56c49115e1318730b5966b41de7c8b7.gif"/>
+<p>
 
- <p> 
+#### Olá, eu sou o William!! 🙋‍♂️
+
+```C#
+   Programador william = new Programador();
+```
+
+</p>
+
+<p> 
 
 - 💻 Estudante de programação e futuro Dev. 
 
 - 😄 Pronome: ele/dele
 
-- 👨‍💻 Atualmente focando em .Net e Python(Participando do programa Stone Tech <Pcd/>).
+- 👨‍💻 Atualmente estudando em .Net, Python e SQL(Recentemente participei do programa Stone Tech Pcd).
  
- </p>
- 
-<div align="center">
-   <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
-   <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-   <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
-   <img width="45" src="https://cdn.svgporn.com/logos/react.svg"/>
-   <img width="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/>
-</div>
+</p>
 
 <div align="left">
   <a href="https://github.com/WilliamVSan">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=codeSTACKr"/>
-   
+   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=github_dark"/>
 </div>
-  
-<div> 
+
+<div align="left"> 
   </a> 
- 
-  <a href="mailto:williamvsantos75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:williamvcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-dos-santos-veloso-b5574a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
-  
