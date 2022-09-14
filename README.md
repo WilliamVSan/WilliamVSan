@@ -1,4 +1,4 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" min-width="250vw" max-width="250vw" width="250vw" align="right" alt="Computador iuriCode">
+
 
 <p>
 
