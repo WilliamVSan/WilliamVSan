@@ -22,8 +22,8 @@
 
 <div align="left">
   <a href="https://github.com/WilliamVSan">
-   <img height="125vh" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="125vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=github_dark"/>
+   <img height="140vh" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="140vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=github_dark"/>
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
 <div align="left"> 
