@@ -1,4 +1,4 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" min-width="240vw" max-width="240vw" width="240vw" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/p1Dc4QQ.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computador iuriCode">
 
 <p>
 
@@ -14,7 +14,7 @@
 
 - 💻 Um eterno estudante de programação, Dev e apaixonado por tecnologia.
 
-- 💼 Atualmente trabalho como Desenvolvedor C# na Stone Co. (Pagar.me) 💚
+- 💼 Atualmente trabalho como Desenvolvedor C# 💚
 
 - 😄 Pronome: ele/dele 
 
@@ -24,8 +24,8 @@
 
 <div align="left">
   <a href="https://github.com/WilliamVSan">
-   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=github_dark"/>
+   <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=WilliamVSan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVsan&layout=compact&theme=gotham"/>
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
 <div align="left"> 
