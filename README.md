@@ -12,11 +12,13 @@
 
 <p> 
 
-- 💻 Estudante de programação e futuro Dev. 
+- 💻 Um eterno estudante de programação, Dev e apaixonado por tecnologia.
 
-- 😄 Pronome: ele/dele
+- 💼 Atualmente trabalho como Desenvolvedor C# na Stone Co. (Pagar.me) 💚
 
-- 👨‍💻 Atualmente estudando em .Net, Python e SQL (Recentemente participei do programa Stone Tech Pcd).
+- 😄 Pronome: ele/dele 
+
+- 👨‍💻 Estudos focados em .Net, Python e SQL. 
  
 </p>
 
