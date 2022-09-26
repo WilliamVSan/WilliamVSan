@@ -2,8 +2,8 @@
 
 <p>
 
-#### Olá, eu sou o William!! 🙋‍♂️
-
+#### Olá, eu sou o Will!! 🙋‍♂️
+##
 ```C#
    Programador william = new Programador();
 ```
@@ -19,7 +19,7 @@
 - 😄 Pronome: ele/dele 
 
 - 👨‍💻 Estudos focados em .Net, Python e SQL. 
- 
+ ##
 </p>
 
 <div align="left">
