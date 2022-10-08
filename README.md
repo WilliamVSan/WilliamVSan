@@ -14,7 +14,7 @@
 
 - 💻 Um eterno estudante de programação, Dev e apaixonado por tecnologia.
 
-- 💼 Atualmente trabalho como Desenvolvedor C# 💚
+- 💼 Atualmente trabalho com Desenvolvimento C# 💚
 
 - 😄 Pronome: ele/dele 
 
